@@ -1,0 +1,65 @@
+.card {
+  width: 70vw;
+  display: flex;
+  align-items: flex-start;
+  padding-bottom: 40px;
+  gap: 20px;
+  max-width: 800px;
+  padding: 20px;
+}
+
+.projectHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.textBlock {
+  padding: 10px;
+}
+
+.projectTitle {
+  font-size: 1.5rem;
+  color: rgb(61, 123, 255);
+}
+
+.linkIcon {
+  width: 20px;
+  filter: invert(50%);
+  transition: filter 1s ease-out;
+}
+
+.linkIcon:hover,
+.linkIcon:focus {
+  filter: invert(100%);
+}
+
+.linkSet {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.projectImg {
+  width: 220px;
+  filter: brightness(40%);
+}
+
+.projectImg:hover {
+  filter: brightness(100%);
+}
+
+a {
+  color: rgb(180, 180, 180);
+  font-style: normal;
+  position: relative;
+  bottom: 0px;
+  transition: color 1s ease-out;
+}
+
+a:hover,
+a:focus {
+  color: rgb(61, 123, 255);
+  bottom: 1px;
+  text-shadow: rgb(61, 123, 255) 0px 0px 1px;
+}

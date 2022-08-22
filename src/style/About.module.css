@@ -1,0 +1,78 @@
+.aboutDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 800px;
+  height: 100vh;
+}
+
+.aboutBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.headerDiv {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  gap: 20px;
+  width: 80vw;
+  padding-bottom: 30px;
+}
+
+.aboutHeader {
+  color: rgb(61, 123, 255);
+  font-size: 3rem;
+}
+
+.line {
+  height: 2px;
+  width: 500px;
+  background-color: rgb(61, 123, 255);
+}
+
+.imgAndText {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.headshot {
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+  filter: brightness(80%);
+  position: relative;
+  left: 10px;
+  bottom: 10px;
+}
+
+.headshot:hover {
+  filter: brightness(100%);
+  position: relative;
+  bottom: 15px;
+  left: 15px;
+  transform: scale(1.02);
+}
+
+.headshotBox {
+  width: 300px;
+  height: 300px;
+  outline: solid white 3px;
+  z-index: -1;
+  position: absolute;
+}
+
+.textBlock {
+  max-width: 500px;
+}
+.blueText {
+  color: blue;
+}
+
+.skillList {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}

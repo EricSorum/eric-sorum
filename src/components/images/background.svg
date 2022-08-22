@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 2560 1600" version="1.1" viewBox="0 0 2560 1600">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:url(#a);}
+</style>
+<pattern id="a" width="319.998" height="319.998" overflow="visible" patternUnits="userSpaceOnUse" viewBox="0 -399.997 319.998 319.998">
+		<rect class="st0" y="-400" width="320" height="320"/>
+			<polygon points="240 -79.999 240 0 160 -79.999 160 -160"/>
+			<polygon points="320 -160 240 -79.999 240 -160"/>
+			<polygon points="79.999 -79.999 79.999 0 0 -79.999 0 -160"/>
+			<polygon points="160 -160 79.999 -79.999 79.999 -160"/>
+			<polygon points="320 -240 320 -160 240 -240 240 -320"/>
+			<polygon points="160 -240 160 -160 79.999 -240 79.999 -320"/>
+			<polygon points="240 -320 160 -240 160 -320"/>
+			<polygon points="240 -240 240 -160 160 -160"/>
+			<polygon points="79.999 -320 0 -240 0 -320"/>
+			<polygon points="79.999 -240 79.999 -160 0 -160"/>
+			<polygon points="240 -400 240 -320 160 -400 160 -480"/>
+			<polygon points="320 -400 320 -320 240 -320"/>
+			<polygon points="79.999 -400 79.999 -320 0 -400 0 -480"/>
+			<polygon points="160 -400 160 -320 79.999 -320"/>
+</pattern>
+<rect class="st1" width="2560" height="1600"/>
+</svg>

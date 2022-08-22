@@ -1,0 +1,68 @@
+.homeDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  animation: 1s ease-out 0s 1 fadeIn;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.homeBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.blueText {
+  color: rgb(61, 123, 255);
+  font-size: 1.2rem;
+}
+
+.headerDiv {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  gap: 20px;
+  width: 80vw;
+}
+
+.homeHeader,
+.subHeader {
+  color: rgb(61, 123, 255);
+  font-size: 3.5rem;
+}
+
+.subHeader {
+  opacity: 0.5;
+}
+
+.line {
+  height: 2px;
+  width: 500px;
+  background-color: rgb(61, 123, 255);
+}
+
+.subtitle {
+  color: rgb(0, 10, 180);
+  text-shadow: rgba(0, 10, 180, 0.5) 2px 2px;
+}
+
+.resumeButtons {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.resumeButton {
+  border: solid rgb(61, 123, 255) 2px;
+  padding: 10px;
+}

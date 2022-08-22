@@ -1,0 +1,14 @@
+.AppDiv {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 120%;
+}
+
+.sections {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 800px;
+}

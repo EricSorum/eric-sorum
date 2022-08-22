@@ -1,0 +1,40 @@
+.leftTabDiv {
+  position: fixed;
+  bottom: 0px;
+  left: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  z-index: 2;
+  animation: 1s ease-out 0s 1 slideInBottom;
+}
+
+.line {
+  height: 10vh;
+  width: 1px;
+  background-color: rgb(61, 123, 255);
+  box-shadow: rgb(61, 123, 255) 0px 0px 3px;
+}
+
+.linkIcon {
+  width: 25px;
+  filter: invert(50%);
+  transition: filter 1st ease-out;
+  padding-bottom: 20px;
+  transition: all 1s ease-out;
+}
+
+.linkIcon:hover,
+.linkIcon:focus {
+  filter: invert(100%);
+}
+
+@keyframes slideInBottom {
+  0% {
+    transform: translateY(200%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Calisto MT, Times New Roman, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('../components/images/code.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: black;
+  color: rgb(240, 240, 255);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

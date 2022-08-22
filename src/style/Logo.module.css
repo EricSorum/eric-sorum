@@ -1,0 +1,37 @@
+.octagon {
+  position: absolute;
+  z-index: -1;
+  filter: invert(80%);
+  width: 60px;
+  height: 60px;
+}
+
+.logoText {
+  color: rgb(61, 123, 255);
+  font-size: 1.5rem;
+}
+
+.logoDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  animation: 1s ease-out 0s 1 fadeIn;
+  transition: all 1s ease-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.logoDiv:hover {
+  transform: scale(105%);
+  filter: brightness(150%);
+}

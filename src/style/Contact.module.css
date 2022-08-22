@@ -1,0 +1,51 @@
+.contactDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 80vw;
+  height: 100vh;
+  gap: 20px;
+  font-size: 130%;
+}
+
+.headerDiv {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  gap: 20px;
+  width: 80vw;
+  padding-bottom: 30px;
+}
+
+.contactHeader {
+  color: rgb(61, 123, 255);
+  font-size: 3rem;
+}
+
+.contactText {
+  max-width: 600px;
+}
+
+.contactButtonDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.contactButton {
+  border: solid rgb(61, 123, 255) 2px;
+  padding: 10px;
+}
+
+.line {
+  height: 2px;
+  width: 500px;
+  background-color: rgb(61, 123, 255);
+}
+
+.addressBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
