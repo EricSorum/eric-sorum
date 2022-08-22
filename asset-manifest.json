@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/personal-site/static/css/main.19c08483.css",
-    "main.js": "/personal-site/static/js/main.f145370c.js",
-    "static/media/headshot.jpg": "/personal-site/static/media/headshot.92145c0dd4df64b46bb4.jpg",
-    "static/media/code.png": "/personal-site/static/media/code.23a7e3210581d8e5e567.png",
-    "static/media/pantry.jpg": "/personal-site/static/media/pantry.f5d97a2386229f019290.jpg",
-    "static/media/architecture.jpg": "/personal-site/static/media/architecture.e70fa849fa304226feaa.jpg",
-    "static/media/gallery.jpg": "/personal-site/static/media/gallery.b711de34620250e79c70.jpg",
-    "static/media/tea.jpg": "/personal-site/static/media/tea.66786fe60e85515f5e2f.jpg",
-    "static/media/veggies.jpg": "/personal-site/static/media/veggies.6524e809763895e183d9.jpg",
-    "static/media/max.jpg": "/personal-site/static/media/max.1395a2eb6fcfd6f1649e.jpg",
-    "static/media/beer.jpg": "/personal-site/static/media/beer.0f33861f64007100ba6e.jpg",
-    "static/media/EJSorumResume2022.pdf": "/personal-site/static/media/EJSorumResume2022.04760642bdf60b3b140d.pdf",
-    "static/media/github.svg": "/personal-site/static/media/github.04be58c17b3d5e9744424d414240dd85.svg",
-    "index.html": "/personal-site/index.html",
-    "static/media/octagon.svg": "/personal-site/static/media/octagon.bdc6950796b8a2bd0b2994a9482dada1.svg",
-    "static/media/linkedin.svg": "/personal-site/static/media/linkedin.27a3f479ca1bbb0ceef19e395081fb94.svg",
-    "static/media/email.svg": "/personal-site/static/media/email.0e360d89f55ba99cc1ef1d224e5829b2.svg",
-    "static/media/site.svg": "/personal-site/static/media/site.436fdf5a60bda379b8fb30a5573c3cdf.svg",
-    "static/media/download.svg": "/personal-site/static/media/download.7849a491c3961ae70fe70a5c053edd93.svg",
-    "main.19c08483.css.map": "/personal-site/static/css/main.19c08483.css.map",
-    "main.f145370c.js.map": "/personal-site/static/js/main.f145370c.js.map"
+    "main.css": "/eric-sorum/static/css/main.313ccd4b.css",
+    "main.js": "/eric-sorum/static/js/main.64dcc0f2.js",
+    "static/media/headshot.jpg": "/eric-sorum/static/media/headshot.92145c0dd4df64b46bb4.jpg",
+    "static/media/code.png": "/eric-sorum/static/media/code.23a7e3210581d8e5e567.png",
+    "static/media/pantry.jpg": "/eric-sorum/static/media/pantry.f5d97a2386229f019290.jpg",
+    "static/media/architecture.jpg": "/eric-sorum/static/media/architecture.e70fa849fa304226feaa.jpg",
+    "static/media/gallery.jpg": "/eric-sorum/static/media/gallery.b711de34620250e79c70.jpg",
+    "static/media/tea.jpg": "/eric-sorum/static/media/tea.66786fe60e85515f5e2f.jpg",
+    "static/media/veggies.jpg": "/eric-sorum/static/media/veggies.6524e809763895e183d9.jpg",
+    "static/media/max.jpg": "/eric-sorum/static/media/max.1395a2eb6fcfd6f1649e.jpg",
+    "static/media/beer.jpg": "/eric-sorum/static/media/beer.0f33861f64007100ba6e.jpg",
+    "static/media/EJSorumResume2022.pdf": "/eric-sorum/static/media/EJSorumResume2022.04760642bdf60b3b140d.pdf",
+    "static/media/github.svg": "/eric-sorum/static/media/github.04be58c17b3d5e9744424d414240dd85.svg",
+    "index.html": "/eric-sorum/index.html",
+    "static/media/octagon.svg": "/eric-sorum/static/media/octagon.bdc6950796b8a2bd0b2994a9482dada1.svg",
+    "static/media/linkedin.svg": "/eric-sorum/static/media/linkedin.27a3f479ca1bbb0ceef19e395081fb94.svg",
+    "static/media/email.svg": "/eric-sorum/static/media/email.0e360d89f55ba99cc1ef1d224e5829b2.svg",
+    "static/media/site.svg": "/eric-sorum/static/media/site.436fdf5a60bda379b8fb30a5573c3cdf.svg",
+    "static/media/download.svg": "/eric-sorum/static/media/download.7849a491c3961ae70fe70a5c053edd93.svg",
+    "main.313ccd4b.css.map": "/eric-sorum/static/css/main.313ccd4b.css.map",
+    "main.64dcc0f2.js.map": "/eric-sorum/static/js/main.64dcc0f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.19c08483.css",
-    "static/js/main.f145370c.js"
+    "static/css/main.313ccd4b.css",
+    "static/js/main.64dcc0f2.js"
   ]
 }
