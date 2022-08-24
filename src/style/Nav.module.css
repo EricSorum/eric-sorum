@@ -10,6 +10,14 @@ nav {
   animation: 1s ease-out 0s 1 slideInTop;
 }
 
+@media (max-width: 600px) {
+  nav {
+    position: absolute;
+    right: 10px;
+    gap: 10px;
+  }
+}
+
 a {
   text-decoration: none;
 }
@@ -19,6 +27,12 @@ a {
   width: 1px;
   background-color: rgb(61, 123, 255);
   box-shadow: rgb(61, 123, 255) 0px 0px 3px;
+}
+
+@media (max-width: 600px) {
+  .line {
+    height: 20px;
+  }
 }
 
 @keyframes slideInTop {

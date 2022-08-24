@@ -10,11 +10,24 @@
   animation: 1s ease-out 0s 1 slideInBottom;
 }
 
+@media (max-width: 600px) {
+  .leftTabDiv {
+    top: 0px;
+    left: 10px;
+  }
+}
+
 .line {
   height: 10vh;
   width: 1px;
   background-color: rgb(61, 123, 255);
   box-shadow: rgb(61, 123, 255) 0px 0px 3px;
+}
+
+@media (max-width: 600px) {
+  .line {
+    height: 5vh;
+  }
 }
 
 .linkIcon {
@@ -23,6 +36,12 @@
   transition: filter 1st ease-out;
   padding-bottom: 20px;
   transition: all 1s ease-out;
+}
+
+@media (max-width: 600px) {
+  .linkIcon {
+    width: 15px;
+  }
 }
 
 .linkIcon:hover,

@@ -1,8 +1,7 @@
 .portfolioDiv {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  padding-bottom: 100px;
+  padding-bottom: 20vh;
 }
 
 .portfolioBlock {
@@ -16,6 +15,7 @@
   justify-content: flex-start;
   align-items: flex-end;
   gap: 20px;
+  width: 80vw;
   padding-bottom: 50px;
 }
 
@@ -30,13 +30,11 @@
   background-color: rgb(61, 123, 255);
   box-shadow: rgb(61, 123, 255) 2px 2px 2px;
 }
-
-.grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 40px;
+@media (max-width: 600px) {
+  .line {
+    display: none;
+  }
 }
-
 .projectList {
   display: flex;
   flex-direction: column;
@@ -54,10 +52,27 @@
   padding: 20px;
 }
 
+@media (max-width: 600px) {
+  .card {
+    align-items: center;
+    flex-direction: column;
+  }
+  .projectHeader {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
 .projectHeader {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.linkGroup {
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
 
 .textBlock {

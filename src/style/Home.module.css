@@ -7,6 +7,12 @@
   animation: 1s ease-out 0s 1 fadeIn;
 }
 
+@media (max-width: 600px) {
+  .homeDiv {
+    max-width: 500px;
+  }
+}
+
 @keyframes fadeIn {
   0% {
     opacity: 0;
@@ -22,6 +28,11 @@
   align-items: flex-start;
 }
 
+@media (max-width: 600px) {
+  .homeBlock {
+  }
+}
+
 .blueText {
   color: rgb(61, 123, 255);
   font-size: 1.2rem;
@@ -32,7 +43,7 @@
   justify-content: flex-start;
   align-items: flex-end;
   gap: 20px;
-  width: 80vw;
+  max-width: 80vw;
 }
 
 .homeHeader,
@@ -41,14 +52,15 @@
   font-size: 3.5rem;
 }
 
-.subHeader {
-  opacity: 0.5;
+@media (max-width: 600px) {
+  .homeHeader,
+  .subHeader {
+    font-size: 2rem;
+  }
 }
 
-.line {
-  height: 2px;
-  width: 500px;
-  background-color: rgb(61, 123, 255);
+.subHeader {
+  opacity: 0.5;
 }
 
 .subtitle {

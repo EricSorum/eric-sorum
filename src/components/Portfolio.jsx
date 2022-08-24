@@ -30,16 +30,18 @@ function Portfolio() {
                 <a href="https://ejsorum.github.io/recipe-site/">
                   <div className={style.projectTitle}>Veggies First</div>
                 </a>
-                <a href="https://ejsorum.github.io/recipe-site/" className={style.linkSet}>
-                  Go to site
-                  {' '}
-                  <img src={site} alt="Link arrow" className={style.linkIcon} />
-                </a>
-                <a href="https://github.com/EJSorum/recipe-site" className={style.linkSet}>
-                  GitHub repo
-                  {' '}
-                  <img src={github} alt="Github icon" className={style.linkIcon} />
-                </a>
+                <div className={style.linkGroup}>
+                  <a href="https://ejsorum.github.io/recipe-site/" className={style.linkSet}>
+                    Go to site
+                    {' '}
+                    <img src={site} alt="Link arrow" className={style.linkIcon} />
+                  </a>
+                  <a href="https://github.com/EJSorum/recipe-site" className={style.linkSet}>
+                    GitHub repo
+                    {' '}
+                    <img src={github} alt="Github icon" className={style.linkIcon} />
+                  </a>
+                </div>
               </div>
               <div className={style.textBlock}>
                 <p className={style.description}>
@@ -67,19 +69,21 @@ function Portfolio() {
                 <a href="https://ejsorum.github.io/Beer-Tools/dist/index.html">
                   <div className={style.projectTitle}>Beer Tools</div>
                 </a>
-                <a
-                  href="https://ejsorum.github.io/Beer-Tools/dist/index.html"
-                  className={style.linkSet}
-                >
-                  Go to site
-                  {' '}
-                  <img src={site} alt="Link arrow" className={style.linkIcon} />
-                </a>
-                <a href="https://github.com/EJSorum/Beer-Tools" className={style.linkSet}>
-                  GitHub repo
-                  {' '}
-                  <img src={github} alt="Github icon" className={style.linkIcon} />
-                </a>
+                <div className={style.linkGroup}>
+                  <a
+                    href="https://ejsorum.github.io/Beer-Tools/dist/index.html"
+                    className={style.linkSet}
+                  >
+                    Go to site
+                    {' '}
+                    <img src={site} alt="Link arrow" className={style.linkIcon} />
+                  </a>
+                  <a href="https://github.com/EJSorum/Beer-Tools" className={style.linkSet}>
+                    GitHub repo
+                    {' '}
+                    <img src={github} alt="Github icon" className={style.linkIcon} />
+                  </a>
+                </div>
               </div>
               <div className={style.textBlock}>
                 <p className={style.description}>
@@ -104,16 +108,18 @@ function Portfolio() {
                 <a href="https://ejsorum.github.io/Pantry/index.html">
                   <div className={style.projectTitle}>Pantry</div>
                 </a>
-                <a href="https://ejsorum.github.io/Pantry/index.html" className={style.linkSet}>
-                  Go to site
-                  {' '}
-                  <img src={site} alt="Link arrow" className={style.linkIcon} />
-                </a>
-                <a href="https://github.com/EJSorum/Pantry" className={style.linkSet}>
-                  GitHub repo
-                  {' '}
-                  <img src={github} alt="Github icon" className={style.linkIcon} />
-                </a>
+                <div className={style.linkGroup}>
+                  <a href="https://ejsorum.github.io/Pantry/index.html" className={style.linkSet}>
+                    Go to site
+                    {' '}
+                    <img src={site} alt="Link arrow" className={style.linkIcon} />
+                  </a>
+                  <a href="https://github.com/EJSorum/Pantry" className={style.linkSet}>
+                    GitHub repo
+                    {' '}
+                    <img src={github} alt="Github icon" className={style.linkIcon} />
+                  </a>
+                </div>
               </div>
               <div className={style.textBlock}>
                 <p className={style.description}>
@@ -137,16 +143,18 @@ function Portfolio() {
                 <a href="https://abcd-architecture.herokuapp.com/">
                   <div className={style.projectTitle}>ABCD Architecture</div>
                 </a>
-                <a href="https://abcd-architecture.herokuapp.com/" className={style.linkSet}>
-                  Go to site
-                  {' '}
-                  <img src={site} alt="Link arrow" className={style.linkIcon} />
-                </a>
-                <a href="https://github.com/EJSorum/architecture-page" className={style.linkSet}>
-                  GitHub repo
-                  {' '}
-                  <img src={github} alt="Github icon" className={style.linkIcon} />
-                </a>
+                <div className={style.linkGroup}>
+                  <a href="https://abcd-architecture.herokuapp.com/" className={style.linkSet}>
+                    Go to site
+                    {' '}
+                    <img src={site} alt="Link arrow" className={style.linkIcon} />
+                  </a>
+                  <a href="https://github.com/EJSorum/architecture-page" className={style.linkSet}>
+                    GitHub repo
+                    {' '}
+                    <img src={github} alt="Github icon" className={style.linkIcon} />
+                  </a>
+                </div>
               </div>
               <div className={style.textBlock}>
                 <p className={style.description}>
@@ -171,22 +179,28 @@ function Portfolio() {
                 <a href="https://ejsorum.github.io/react-landing/">
                   <div className={style.projectTitle}>Maxs Landing Page</div>
                 </a>
-                <a href="https://ejsorum.github.io/react-landing/" className={style.linkSet}>
-                  Go to site
-                  {' '}
-                  <img src={site} alt="Link arrow" className={style.linkIcon} />
-                </a>
-                <a href="https://github.com/EJSorum/react-landing" className={style.linkSet}>
-                  GitHub repo
-                  {' '}
-                  <img src={github} alt="Github icon" className={style.linkIcon} />
-                </a>
+                <div className={style.linkGroup}>
+                  <a href="https://ejsorum.github.io/react-landing/" className={style.linkSet}>
+                    Go to site
+                    {' '}
+                    <img src={site} alt="Link arrow" className={style.linkIcon} />
+                  </a>
+                  <a href="https://github.com/EJSorum/react-landing" className={style.linkSet}>
+                    GitHub repo
+                    {' '}
+                    <img src={github} alt="Github icon" className={style.linkIcon} />
+                  </a>
+                </div>
               </div>
               <div className={style.textBlock}>
                 <p className={style.description}>
-                  Uses React props to render repetitive elements on a landing page for a fictional
-                  musician.
+                  A landing page for a fictional musician.  Demonstrates layout skills using React components to 
+                  render repetetive elements.
                 </p>
+                <ul>
+                  <li>Responsive design for mobile.</li>
+                  <li>React with functional components and props.</li>
+                </ul>
               </div>
             </div>
           </div>
@@ -200,20 +214,28 @@ function Portfolio() {
                 <a href="https://ejsorum.github.io/tea-shop/">
                   <div className={style.projectTitle}>Tea Shop</div>
                 </a>
-                <a href="https://ejsorum.github.io/tea-shop/" className={style.linkSet}>
-                  Go to site
-                  {' '}
-                  <img src={site} alt="Link arrow" className={style.linkIcon} />
-                </a>
-                <a href="https://github.com/EJSorum/tea-shop" className={style.linkSet}>
-                  GitHub repo
-                  {' '}
-                  <img src={github} alt="Github icon" className={style.linkIcon} />
-                </a>
+                <div className={style.linkGroup}>
+                  <a href="https://ejsorum.github.io/tea-shop/" className={style.linkSet}>
+                    Go to site
+                    {' '}
+                    <img src={site} alt="Link arrow" className={style.linkIcon} />
+                  </a>
+                  <a href="https://github.com/EJSorum/tea-shop" className={style.linkSet}>
+                    GitHub repo
+                    {' '}
+                    <img src={github} alt="Github icon" className={style.linkIcon} />
+                  </a>
+                </div>
               </div>
               <div className={style.textBlock}>
                 <p className={style.description}>
-                  Uses class components to add items to the shopping cart.
+                  Users may browse various iced teas and/or create their custom cup on an order form.  
+                  Both menu items and custom items may be moved into the cart, displaying the price 
+                  according to their size.
+                  <ul>
+                    <li>React with class functions using state and props.</li>
+                    <li>Form submission.</li>
+                  </ul>
                 </p>
               </div>
             </div>
@@ -228,24 +250,29 @@ function Portfolio() {
                 <a href="https://ejsorum.github.io/Gallery/dist/index.html">
                   <div className={style.projectTitle}>Gallery</div>
                 </a>
-                <a
-                  href="https://ejsorum.github.io/Gallery/dist/index.html"
-                  className={style.linkSet}
-                >
-                  Go to site
-                  {' '}
-                  <img src={site} alt="Link arrow" className={style.linkIcon} />
-                </a>
-                <a href="https://github.com/EJSorum/Gallery" className={style.linkSet}>
-                  GitHub repo
-                  {' '}
-                  <img src={github} alt="Github icon" className={style.linkIcon} />
-                </a>
+                <div className={style.linkGroup}>
+                  <a
+                    href="https://ejsorum.github.io/Gallery/dist/index.html"
+                    className={style.linkSet}
+                  >
+                    Go to site
+                    {' '}
+                    <img src={site} alt="Link arrow" className={style.linkIcon} />
+                  </a>
+                  <a href="https://github.com/EJSorum/Gallery" className={style.linkSet}>
+                    GitHub repo
+                    {' '}
+                    <img src={github} alt="Github icon" className={style.linkIcon} />
+                  </a>
+                </div>
               </div>
               <div className={style.textBlock}>
-                <p className={style.description}>Dynamically generates an image gallery.</p>
+                <p className={style.description}>Dynamically generates an image gallery.  
+                User may select an image to put it in the center spot and display the photography credit in the footer.</p>
                 <ul>
-                  <li>Object-oriented programming with Webpack and CSS grid.</li>
+                  <li>Modular functions.</li>
+                  <li>Webpack.</li>
+                  <li>CSS Grid.</li>
                 </ul>
               </div>
             </div>

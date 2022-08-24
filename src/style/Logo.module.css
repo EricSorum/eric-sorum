@@ -20,6 +20,13 @@
   left: 20px;
   animation: 1s ease-out 0s 1 fadeIn;
   transition: all 1s ease-out;
+  z-index: 3;
+}
+
+@media (max-width: 600px) {
+  .logoDiv {
+    display: none;
+  }
 }
 
 @keyframes fadeIn {

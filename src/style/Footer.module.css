@@ -1,0 +1,18 @@
+.footerDiv {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.linkIcon {
+  width: 25px;
+  filter: invert(50%);
+  transition: filter 1st ease-out;
+  padding-bottom: 20px;
+  transition: all 1s ease-out;
+}
+
+.linkIcon:hover,
+.linkIcon:focus {
+  filter: invert(100%);
+}

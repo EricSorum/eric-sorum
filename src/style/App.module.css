@@ -1,5 +1,4 @@
 .AppDiv {
-  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -10,5 +9,16 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  width: 800px;
+  max-width: 800px;
+}
+
+@media (max-width: 600px) {
+  .AppDiv {
+    align-items: stretch;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .sections {
+    align-items: flex-end;
+  }
 }

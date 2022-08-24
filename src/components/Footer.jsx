@@ -1,25 +1,11 @@
-import React from 'react';
-import style from '../style/Footer.module.css';
+import React from 'react'
+import style from '../style/Footer.module.css'
+import github from './images/github.svg'
 
 function Footer() {
   return (
-    <div>
-      <p className={style.footerText}>Copyright 2022 Eric J. Sorum</p>
-      <p>
-        Background image by
-        {' '}
-        <a href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1837442">
-          Gordon Johnson
-        </a>
-        {' '}
-        from
-        {' '}
-        <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1837442">
-          Pixabay
-        </a>
-      </p>
-    </div>
-  );
+    <div><a href="https://github.com/EJSorum/eric-sorum" className={style.footerDiv}>Designed and Built by Eric Sorum <img src={github} alt="Github icon" className={style.linkIcon}/></a></div>
+  )
 }
 
-export default Footer;
+export default Footer
