@@ -20,24 +20,29 @@ function About() {
           </div>
           <div className={style.textBlock}>
             <p>
-              My life has been defined by self-starting and curiosity, and its no wonder the past
-              year of teaching myself software development has been perhaps the most fulfilling
-              period in my life.
+            My life has been defined by self-starting and curiosity. It’s no wonder the 
+            past year of teaching myself to code has been perhaps the most fulfilling 
+            period in my life.
             </p>
             <p>
-              I have been crazy about computers ever since I first got to play around with the DOS
-              prompt on my dad&aposs ancient 486. I went to computer camp in 7th and 8th grade to
-              learn C++ and knew that one day I would be a computer programmer.
+            I have been crazy about computers ever since I first played around on the DOS 
+            prompt of my dad’s i386.  I went to computer camp in middle school to learn 
+            C++ and dreamt of being a real programmer.  The past 15 years have seen me 
+            pursue other passions, representing a diverse set of experiences requiring 
+            excellent communication and creativity:
             </p>
+            <ul>
+              <li>Held leadership positions at nonprofits and businesses for 12+ years.</li>
+              <li>Hired, trained, and managed teams of 30+ staff members.</li>
+              <li>Personally planned and led 50+ performance events.</li>
+              <li>Performed with world-class organizations such as the Minnesota Opera 
+                and Bach Society of Minnesota for 10+ years.</li>
+              <li>Led volunteers in local activism and research, meeting with city and 
+                state policymakers to promote affordable housing.</li>
+            </ul>
             <p>
-              The past 15 years has seen me in numerous leadership positions requiring excellent
-              communication and creativity. I thrive when given open-ended goals and a little bit of
-              elbow-room
-            </p>
-            <p>
-              My history of self-motivated success will be invaluable to your company. I would be a
-              perfect fit for any web development position, with the proven ability to quickly adapt
-              and learn any language or technology.
+            Computers have once again emerged as my true passion, and returning to code 
+            has felt like coming home.
             </p>
             <p>Here are a few of the technologies I currently use:</p>
             <ul className={style.skillList}>
@@ -50,6 +55,8 @@ function About() {
               <li>Git/GitHub</li>
               <li>Linux CLI</li>
             </ul>
+            <p>I look forward to beginning my first job as a software developer.  My diverse 
+              experience and aptitude for learning will make me invaluable to your company.</p>
           </div>
         </div>
       </div>

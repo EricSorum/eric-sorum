@@ -92,8 +92,8 @@ function Portfolio() {
                   value per ounce of packaging formats.
                 </p>
                 <ul>
-                  <li>rendered using modular functions and Webpack.</li>
-                  <li>formatted with Prettier, ESLint, and Husky.</li>
+                  <li>Rendered using modular functions and Webpack.</li>
+                  <li>Formatted with Prettier, ESLint, and Husky.</li>
                 </ul>
               </div>
             </div>
@@ -128,7 +128,7 @@ function Portfolio() {
                 </p>
                 <ul>
                   <li>DOM manipulation using vanilla JavaScript.</li>
-                  <li>splice, for loops, and factory functions.</li>
+                  <li>Splice, for loops, and factory functions.</li>
                 </ul>
               </div>
             </div>
@@ -160,7 +160,7 @@ function Portfolio() {
                 <p className={style.description}>
                   A six-page website for a fictional company. Home page designed after
                   {' '}
-                  <a href="http://www.dfdg.com">dfdg.com</a>
+                  <a href="http://www.dfdg.com">dfdg.com</a> with a drop-down menu added.
                 </p>
                 <ul>
                   <li>React Router.</li>
@@ -198,7 +198,7 @@ function Portfolio() {
                   render repetetive elements.
                 </p>
                 <ul>
-                  <li>Responsive design for mobile.</li>
+                  <li>Responsive web design for mobile.</li>
                   <li>React with functional components and props.</li>
                 </ul>
               </div>
@@ -229,14 +229,13 @@ function Portfolio() {
               </div>
               <div className={style.textBlock}>
                 <p className={style.description}>
-                  Users may browse various iced teas and/or create their custom cup on an order form.  
+                  User may browse various iced teas and create a custom cup on an order form.  
                   Both menu items and custom items may be moved into the cart, displaying the price 
-                  according to their size.
+                  according to their size.</p>
                   <ul>
                     <li>React with class functions using state and props.</li>
                     <li>Form submission.</li>
                   </ul>
-                </p>
               </div>
             </div>
           </div>
@@ -268,7 +267,7 @@ function Portfolio() {
               </div>
               <div className={style.textBlock}>
                 <p className={style.description}>Dynamically generates an image gallery.  
-                User may select an image to put it in the center spot and display the photography credit in the footer.</p>
+                User may click on an image to put it in the center and display the photography credit in the footer.</p>
                 <ul>
                   <li>Modular functions.</li>
                   <li>Webpack.</li>

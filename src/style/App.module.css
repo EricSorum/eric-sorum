@@ -22,3 +22,7 @@
     align-items: flex-end;
   }
 }
+
+li {
+  list-style: square;
+}
