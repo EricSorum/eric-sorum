@@ -50,11 +50,11 @@ function Portfolio() {
                   the number of recipes to display, and create a custom search for any ingredient.
                 </p>
                 <ul>
-                  <li>functional React components with the useState and useEffect Hooks.</li>
-                  <li>async functions to fetch recipe image, ingredients, and instructions.</li>
-                  <li>type checking with PropTypes.</li>
-                  <li>data extraction from JSON files.</li>
-                  <li>form submission.</li>
+                  <li>Functional React components with the useState and useEffect Hooks.</li>
+                  <li>Async functions to fetch recipe image, ingredients, and instructions.</li>
+                  <li>Type checking with PropTypes.</li>
+                  <li>Data extraction from JSON files.</li>
+                  <li>Form submission.</li>
                 </ul>
               </div>
             </div>
@@ -160,7 +160,7 @@ function Portfolio() {
                 <p className={style.description}>
                   A six-page website for a fictional company. Home page designed after
                   {' '}
-                  <a href="http://www.dfdg.com">dfdg.com</a> with a drop-down menu added.
+                  <a href="http://www.dfdg.com">dfdg.com</a> with a drop-down menu.
                 </p>
                 <ul>
                   <li>React Router.</li>
@@ -177,7 +177,7 @@ function Portfolio() {
             <div>
               <div className={style.projectHeader}>
                 <a href="https://ejsorum.github.io/react-landing/">
-                  <div className={style.projectTitle}>Maxs Landing Page</div>
+                  <div className={style.projectTitle}>Max's Landing Page</div>
                 </a>
                 <div className={style.linkGroup}>
                   <a href="https://ejsorum.github.io/react-landing/" className={style.linkSet}>
@@ -233,8 +233,9 @@ function Portfolio() {
                   Both menu items and custom items may be moved into the cart, displaying the price 
                   according to their size.</p>
                   <ul>
-                    <li>React with class functions using state and props.</li>
-                    <li>Form submission.</li>
+                    <li>React with class components using state and props.</li>
+                    <li>.map() and .filter() methods.</li>
+                    <li>Event handling.</li>
                   </ul>
               </div>
             </div>
