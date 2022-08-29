@@ -195,7 +195,7 @@ function Portfolio() {
               <div className={style.textBlock}>
                 <p className={style.description}>
                   A landing page for a fictional musician.  Demonstrates layout skills using React components to 
-                  render repetetive elements.
+                  render repetitive elements.
                 </p>
                 <ul>
                   <li>Responsive web design for mobile.</li>
