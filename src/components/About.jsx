@@ -51,12 +51,10 @@ function About() {
               <li>CSS</li>
               <li>React</li>
               <li>Webpack</li>
-              <li>ESLint</li>
               <li>Git/GitHub</li>
               <li>Linux CLI</li>
+              <li>Drupal</li>
             </ul>
-            <p>I look forward to beginning my first job as a software developer.  My diverse 
-              experience and aptitude for learning will make me invaluable to your company.</p>
           </div>
         </div>
       </div>

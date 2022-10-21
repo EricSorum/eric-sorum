@@ -13,8 +13,7 @@ function Contact() {
       <br />
       <div className={style.addressBlock}>
         <p className={style.contactText}>
-          I look forward to being in touch about any software developer positions at your company. I
-          am eager to get to work as soon as possible!
+          Please reach out by email or learn more about me on my LinkedIn or GitHub profiles:
         </p>
         <br />
         <div className={style.contactButtonDiv}>

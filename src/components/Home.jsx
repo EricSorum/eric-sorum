@@ -16,8 +16,7 @@ function Home() {
           and other web technologies.
         </p>
         <p>
-          I am currently seeking my first Junior Software Developer position. My proven dedication
-          to learning and passion for coding will quickly make me a productive member of your team.
+          Eric is currently a Junior Web Developer with Scranton-Gillete Communications: Horizons.
         </p>
         <div className={style.resumeButtons}>
           <a href={resume}>
