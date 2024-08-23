@@ -8,11 +8,11 @@ function Home() {
       <div className={style.homeBlock}>
         <div className={style.headerDive}>
           <h1 className={style.homeHeader}>Eric Sorum</h1>
-          <h1 className={style.subHeader}>Self-taught Software Developer</h1>
+          <h1 className={style.subHeader}>Software Developer</h1>
         </div>
         <p>
           Proficient in:
-          <span className={style.blueText}> JavaScript, HTML, CSS, React, </span>
+          <span className={style.blueText}> JavaScript, PHP, HTML, CSS, React, </span>
           and other web technologies.
         </p>
         <p>
