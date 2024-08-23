@@ -1,6 +1,6 @@
 import React from 'react';
 import style from '../style/Nav.module.css';
-import resume from './resume/EJSorumResume2022.pdf';
+import resume from './resume/EJSorumResume2024.pdf';
 import download from './images/download.svg';
 
 function Nav() {

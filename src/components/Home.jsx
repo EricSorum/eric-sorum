@@ -1,6 +1,6 @@
 import React from 'react';
 import style from '../style/Home.module.css';
-import resume from './resume/EJSorumResume2022.pdf';
+import resume from './resume/EJSorumResume2024.pdf';
 
 function Home() {
   return (
