@@ -49,10 +49,9 @@ function About() {
               <li>JavaScript</li>
               <li>HTML</li>
               <li>CSS</li>
+              <li>PHP</li>
               <li>React</li>
-              <li>Webpack</li>
               <li>Git/GitHub</li>
-              <li>Linux CLI</li>
               <li>Drupal</li>
             </ul>
           </div>

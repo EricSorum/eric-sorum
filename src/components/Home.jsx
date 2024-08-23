@@ -16,7 +16,7 @@ function Home() {
           and other web technologies.
         </p>
         <p>
-          Eric is currently a Junior Web Developer with Scranton-Gillete Communications: Horizons.
+          Eric is currently a Web Developer with Scranton-Gillete Communications: Horizons.
         </p>
         <div className={style.resumeButtons}>
           <a href={resume}>
