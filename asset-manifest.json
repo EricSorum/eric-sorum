@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.eaf06b5c.css",
-    "main.js": "/static/js/main.9b7cc1f4.js",
+    "main.css": "/static/css/main.70537ea8.css",
+    "main.js": "/static/js/main.8b254625.js",
     "static/media/headshot.jpg": "/static/media/headshot.92145c0dd4df64b46bb4.jpg",
     "static/media/code.png": "/static/media/code.23a7e3210581d8e5e567.png",
     "static/media/pantry.jpg": "/static/media/pantry.f5d97a2386229f019290.jpg",
@@ -10,8 +10,8 @@
     "static/media/tea.jpg": "/static/media/tea.66786fe60e85515f5e2f.jpg",
     "static/media/veggies.jpg": "/static/media/veggies.6524e809763895e183d9.jpg",
     "static/media/max.jpg": "/static/media/max.1395a2eb6fcfd6f1649e.jpg",
+    "static/media/EJSorumResume2024.pdf": "/static/media/EJSorumResume2024.5c6b21a44709862ae80a.pdf",
     "static/media/beer.jpg": "/static/media/beer.0f33861f64007100ba6e.jpg",
-    "static/media/EJSorumResume2022.pdf": "/static/media/EJSorumResume2022.9cb5333cfa2aa5231ccb.pdf",
     "static/media/github.svg": "/static/media/github.04be58c17b3d5e9744424d414240dd85.svg",
     "static/media/octagon.svg": "/static/media/octagon.bdc6950796b8a2bd0b2994a9482dada1.svg",
     "index.html": "/index.html",
@@ -19,11 +19,11 @@
     "static/media/email.svg": "/static/media/email.0e360d89f55ba99cc1ef1d224e5829b2.svg",
     "static/media/site.svg": "/static/media/site.436fdf5a60bda379b8fb30a5573c3cdf.svg",
     "static/media/download.svg": "/static/media/download.7849a491c3961ae70fe70a5c053edd93.svg",
-    "main.eaf06b5c.css.map": "/static/css/main.eaf06b5c.css.map",
-    "main.9b7cc1f4.js.map": "/static/js/main.9b7cc1f4.js.map"
+    "main.70537ea8.css.map": "/static/css/main.70537ea8.css.map",
+    "main.8b254625.js.map": "/static/js/main.8b254625.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaf06b5c.css",
-    "static/js/main.9b7cc1f4.js"
+    "static/css/main.70537ea8.css",
+    "static/js/main.8b254625.js"
   ]
 }
