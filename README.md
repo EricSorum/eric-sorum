@@ -12,7 +12,7 @@ https://www.linkedin.com/in/eric-sorum-894b55183/
 
 View my GitHub profile:
 
-https://github.com/EJSorum
+https://github.com/EricSorum
 
 Or send me an email:
 
